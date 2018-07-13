@@ -1,0 +1,10 @@
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\bin\Debug\bulkinsert.exe.config
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\bin\Debug\bulkinsert.exe
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\bin\Debug\bulkinsert.pdb
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\obj\Debug\bulkinsert.csprojAssemblyReference.cache
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\obj\Debug\bulkinsert.csproj.CoreCompileInputs.cache
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\obj\Debug\bulkinsert.exe
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\obj\Debug\bulkinsert.pdb
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\bin\Debug\Dapper.dll
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\bin\Debug\Dapper.xml
+C:\Users\j.simon\source\repos\bulkinsert\bulkinsert\obj\Debug\bulkinsert.csproj.CopyComplete
